@@ -1,17 +1,5 @@
-# Portfolio Site
+# Portfolio Site Project - (Udacity)
 
 ## Description
 
-Coming soon...
-
-## Requirements
-
-Coming soon...
-
-## Project files
-
-Coming soon...
-
-## How to Run This Project
-
-Coming soon...
+Given a pdf mockup of a website from a designer, translate it to a real website using your HTML and CSS skills.
